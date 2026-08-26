@@ -2,6 +2,8 @@
 
 A Python simulation exploring the Kelly Criterion in coin-tossing games over 1,000 rounds across 10,000 runs. It demonstrates optimal capital growth, compares experimental median paths with theoretical compounding rates, and visualizes how log-wealth optimization protects against long-term risk of ruin.
 
+Simulator.png
+
 ## Overview
 
 When trading or betting with an edge, risking too much leads to catastrophic loss, while risking too little underutilizes the edge. The **Kelly Criterion** determines the optimal fraction of total wealth to wager on each trial to maximize expected logarithmic wealth over time:
