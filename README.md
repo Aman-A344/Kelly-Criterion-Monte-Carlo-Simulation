@@ -19,9 +19,3 @@ Where:
 * **Theoretical Growth Rate ($g$):** Computes the expected compound growth per round using log-returns:
   $$g = p \ln(1 + f) + (1 - p) \ln(1 - f)$$
 * **Monte Carlo Visualizations:** Uses `matplotlib` to graph the 99th-percentile final wealth distribution alongside the geometric path progression against theoretical bounds.
-
-## Dependencies & Requirements
-
-* Python 3.x
-* `numpy`
-* `matplotlib`
